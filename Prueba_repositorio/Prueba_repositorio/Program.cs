@@ -19,6 +19,7 @@ namespace Prueba_repositorio
             Application.Run(new Form1());
             // Hola
             // Nuevo comentario
+            Console.WriteLine("Uniremingtonmanizales");
         }
     }
 }
