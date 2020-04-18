@@ -20,7 +20,9 @@ namespace Prueba_repositorio
             // Hola
             // Nuevo comentario
             Console.WriteLine("Uniremingtonmanizales");
+            Console.WriteLine("Comentario compañero");
             //Clase
+            //Prueba de comp
         }
     }
 }
